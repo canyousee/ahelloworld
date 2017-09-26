@@ -35,7 +35,7 @@
 
 设置网卡，都为NAT网络
 
-![](c:\users\windows\deaktop\nat.png)
+![]( ahelloworld/1.png )
 
 ![](c:\users\windows\deaktop\nat2.png)
 
